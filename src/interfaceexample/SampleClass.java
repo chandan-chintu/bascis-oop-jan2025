@@ -9,7 +9,6 @@ public class SampleClass implements SampleInterface{
     }
     //extra lines
     //sme lines
-
     @Override
     public void demo2() {
         System.out.println("demo2 method body inside sampleclass");
