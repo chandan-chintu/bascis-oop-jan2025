@@ -7,6 +7,8 @@ public class SampleClass implements SampleInterface{
         System.out.println("demo method body inside sampleclass");
         System.out.println("abc value is : "+SampleInterface.abc);
     }
+    //extra lines
+    //sme lines
 
     @Override
     public void demo2() {
