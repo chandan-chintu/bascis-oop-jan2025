@@ -3,6 +3,8 @@ package encapsulationexample;
 public class MainClass {
     public static void main(String[] args) {
 
+
+        //added dummy codes
         Student student1 = new Student();
         student1.setId(123);
         student1.setName("Ajay");

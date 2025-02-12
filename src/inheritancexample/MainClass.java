@@ -3,12 +3,15 @@ package inheritancexample;
 public class MainClass {
     public static void main(String[] args) {
 
+        //added dummy codes
         System.out.println("------------------------Vehicle parent class-------------------");
         Vehicle vehicle = new Vehicle();
         vehicle.start();
         vehicle.stop();
         vehicle.fueling();
-
+//added dummy codes
+        //added dummy codes
+        //added dummy codes
         System.out.println("---------------------Air Vehicle Child class---------------------");
         AirVehicle airVehicle =new AirVehicle();
         airVehicle.travelOnAir();

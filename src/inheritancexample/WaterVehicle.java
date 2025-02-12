@@ -6,6 +6,8 @@ public class WaterVehicle extends Vehicle{
         System.out.println("These vehicles travels on Water");
         System.out.println("Brand name is : "+super.brandName);
     }
+    //added dummy codes
+    //added dummy codes
 
     @Override
     public void start() {
