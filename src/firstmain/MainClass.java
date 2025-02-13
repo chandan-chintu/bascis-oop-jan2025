@@ -7,6 +7,11 @@ public class MainClass {
         // creating objects
         Student student1 = new Student(); // object of a class student
 
+        // added lines in myownbranch
+        // added lines in myownbranch
+
+
+
         System.out.println("student1 before assigning values is : "+student1);
 
         // assigning values
